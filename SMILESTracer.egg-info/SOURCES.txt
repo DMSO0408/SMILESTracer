@@ -1,0 +1,7 @@
+README.md
+setup.py
+SMILESTracer.egg-info/PKG-INFO
+SMILESTracer.egg-info/SOURCES.txt
+SMILESTracer.egg-info/dependency_links.txt
+SMILESTracer.egg-info/requires.txt
+SMILESTracer.egg-info/top_level.txt

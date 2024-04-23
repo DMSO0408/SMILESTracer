@@ -11,7 +11,7 @@ from setuptools import find_packages, setup, Command
 # Package meta-data.
 NAME = "SMILESTracer"
 DESCRIPTION = 'Generate atom-mapped SMILES from reaction SMARTS and SMILES'
-URL = 'https://github.com/me/myproject'
+URL = 'https://github.com/DMSO0408/SMILESTracer'
 EMAIL = '2100011879@stu.pku.edu.cn'
 AUTHOR = 'jnliu'
 REQUIRES_PYTHON = '>=3.6.0'
